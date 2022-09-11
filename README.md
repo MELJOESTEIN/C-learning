@@ -41,9 +41,10 @@ open your terminal and type "touch myfirstprogram.c"  to create the C file
 
 Write the following C code and save the file as myfirstprogram.c
 
+```javascript
 #include <stdio.h>
 
 int main() {
   printf("Hello World!");
   return 0;
-}
+}```
