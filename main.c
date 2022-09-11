@@ -1,3 +1,5 @@
+//This is our first C program: Hello world!
+
 #include <stdio.h>
 
 int main() {
