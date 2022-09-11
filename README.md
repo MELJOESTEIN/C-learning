@@ -26,3 +26,8 @@ C is very versatile; it can be used in both applications and technologies
 ### Difference between C and C++
 C++ was developed as an extension of C, and both languages have almost the same syntax
 The main difference between C and C++ is that C++ support classes and objects, while C does not.
+
+## Get Started
+This tutorial will teach you the very basics of C.
+
+It is not necessary to have any prior programming experience.
