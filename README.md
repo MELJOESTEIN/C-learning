@@ -31,3 +31,19 @@ The main difference between C and C++ is that C++ support classes and objects, w
 This tutorial will teach you the very basics of C.
 
 It is not necessary to have any prior programming experience.
+
+
+## C Quickstart
+
+Let's create our first C file.
+
+open your terminal and type "touch myfirstprogram.c"  to create the C file
+
+Write the following C code and save the file as myfirstprogram.c
+
+#include <stdio.h>
+
+int main() {
+  printf("Hello World!");
+  return 0;
+}
